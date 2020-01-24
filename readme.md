@@ -17,6 +17,9 @@ Botkit offers everything you need to design, build and operate an app:
 
 Plus, Botkit works with all the NLP services (like Microsoft LUIS and IBM Watson), can use any type of database you want, and runs on almost any hosting platform.
 
+# Add to Slack
+https://www.google.com/search?q=add+glitch+app+to+slack+bot&rlz=1C5CHFA_enCA718CA718&oq=add+glitch+app+to+slack+bot&aqs=chrome..69i57j33.16897j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_FzcrXqydK5L--gSfi6mABw14
+
 # Install Botkit
 Botkit is a Node.js module, and works with Node and npm.
 
