@@ -20,6 +20,9 @@ Plus, Botkit works with all the NLP services (like Microsoft LUIS and IBM Watson
 # Add to Slack
 https://www.google.com/search?q=add+glitch+app+to+slack+bot&rlz=1C5CHFA_enCA718CA718&oq=add+glitch+app+to+slack+bot&aqs=chrome..69i57j33.16897j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_FzcrXqydK5L--gSfi6mABw14
 
+Config error : Oops! Something went awry during your login.
+* be sure the bots .env file has correct ClientID and ClientSecret for you slack app
+
 # Install Botkit
 Botkit is a Node.js module, and works with Node and npm.
 
